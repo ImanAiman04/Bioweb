@@ -11,7 +11,7 @@
             Welcome to My Page!
         </h1>
         <!-- menu section -->
-        <nav class="menu">
+        <nav class="navbar">
             <a href="about_me">biodata</a>&nbsp;
             <a href="home_state">state</a>&nbsp;
             <a href="university">university</a>&nbsp;
