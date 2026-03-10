@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>
-            Let's know about me!
+            My Profile
         </h1>
         <!-- menu section -->
         <nav class="navbar">
@@ -20,7 +20,7 @@
 
         <!-- biodata information -->
         <div class="biodata">
-            <img src="my_profile.jpg" alt="my passport" width="130px" height="auto">
+            <img src="my_profile.jpg" alt="my picture" width="130px" height="auto">
             <p>
                 <b>Name :</b> Iman Aiman bin Mohyiddin<br>
                 <b>Birthdate :</b> 18<sup>th</sup> January 2004<br>
