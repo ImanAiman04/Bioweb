@@ -1,0 +1,155 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: darkgoldenrod;
+    color: white;
+  }
+  
+  h1 {
+    background-color: white;
+    color: black;
+    border: 1px solid gold;
+    border-radius: 5px; 
+    max-width: 650px;
+    width: fit-content;
+    margin: auto;
+    padding: 5px 5px;
+  }
+  
+img {
+  display: flex;
+  border-radius: 5px;
+  margin: auto;
+}
+  
+  /* Menu bar section */
+.menu {
+  display: flex; /* Allows elements to line up horizontally */
+  max-width: 700px; /*max size of the box */
+  justify-content: space-around; /* Distributes items evenly */
+  padding: 5px 5px; /* Space inside the menu */
+  border: 1px solid gold; /* Optional border */
+  border-radius: 50px; /* the curve around the box */
+  box-shadow: 2px 2px 2px #333; /* create shadow around the box */
+  margin: auto; /* keep the menu at the center of the web */
+  margin-top: 10px; /* create space on top of the box */
+  background-color: #f0f0f0; /* Background color for the menu bar */
+}
+
+.menu a {
+    text-decoration: none; /* Removes the underline on links */
+    color: #333; /* Sets the text color */
+    padding: 8px 15px; /* Adds spacing to links */
+    border-radius: 5px; /* Rounds the edges of links */
+    transition: background-color 0.3s ease; /* Smooth background change on hover */
+}
+
+.menu a:hover {
+    background-color: gold; /* Highlights the link on hover */
+    color: black; /* Sets the hover text color */
+}
+
+
+/* Box design section */ 
+.box {
+  display:flex;
+  background-color: white;
+  border: 1px solid gold;
+  border-radius: 10px;
+  box-shadow: 1px 1px 0 #333;
+  margin: auto;
+  margin-top: 10px;
+  max-width: 300px;
+  padding: auto;
+}
+
+.box a{
+  display:flex;
+  text-decoration: none;
+  text-align: left;
+  border-radius: 10px;
+  max-width: 300px;
+  color: black;
+  padding: 10px 10px;
+  transition: background-color 0.3s ease;
+}
+
+.box a:hover {
+  background-color: gold; /* Highlights the link on hover */
+  color: black; /* Sets the hover text color */
+}
+
+
+/* intro design section */
+.intro {
+  display: inline-flexbox;
+  background-color: white;
+  color: black;
+  border: 1px solid gold;
+  border-radius: 5px;
+  box-shadow: 1px 1px 0 #333;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.intro p {
+  padding: auto;
+  margin: 10px 15px;
+}
+
+
+/* additional design section */
+.add {
+  background-color: white;
+  color: black;
+  max-width: 600px;
+  border-radius: 20px;
+  margin: auto;
+  padding: auto;
+}
+
+.add p {
+  padding: 10px 0;
+}
+
+ul, li {
+  text-align: left;
+  padding-right: 15px;
+}
+
+/* bahagian homepage & about me page */
+.biodata {
+  display: flex;
+  background-color: white;
+  color: black;
+  border: 1px solid gold;
+  border-radius: 10px;
+  box-shadow: 1px 1px 0 #333;
+  margin: auto;
+  margin-top: 10px;
+  max-width: 600px;
+  padding: auto;
+  padding: 10px 10px;
+  width: fit-content;
+}
+
+.biodata p {
+  text-align: left;
+  margin-left: 10px;
+}
+
+/* Table section */
+table {
+  margin: auto;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+  border: 2px solid #333;
+  color: black;
+  background-color: white;
+  box-shadow: 3px 3px 0 #333;
+}
