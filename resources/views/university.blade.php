@@ -7,7 +7,7 @@
     </head>
     <body>
         <!-- header title -->
-        <h1>My University: Universiti Putra Malaysia (UPM)</h1>
+        <h1>My Background Study</h1>
         <nav class="menu">
             <a href="about_me">biodata</a>&nbsp;
             <a href="home_state">state</a>&nbsp;
@@ -16,9 +16,10 @@
             <a href="achievement">achievement</a>
         </nav>
 
-        <!-- intro section -->
-        <div class="intro">
-            <a href="https://www.upm.edu.my/"><img src="upm_logo.jpg" alt="UPM image" style="width: 750px; height: 400px;"></a>
+        <!-- current studied section -->
+        <div class="study">
+            <h2>Universiti Putra Malaysia (UPM)</h2>
+            <a href="https://www.upm.edu.my/"><img src="upm_logo.jpg" alt="UPM image" style="width: 600px; height: auto;"></a>
             <p>
                 UPM (Universiti Putra Malaysia) is a prominent public research university located in Malaysia, specifically in Serdang, Selangor. 
                 It is one of the top universities in the country, known for its emphasis on research, innovation, and academic excellence. 
@@ -27,23 +28,15 @@
             </p>
         </div>
 
-        <!-- additional info -->
-        <div class="add">
+        <!-- previous studied section -->
+        <div class="study">
+            <h2>Pahang Matriculation College (KMPh)</h2>
+            <a href="https://www.kmph.matrik.edu.my/"><img src="kmph_logo.png" alt="KMPh logo" style="width: 600px; height: auto;"></a>
             <p>
-                Some key features in UPM: 
-                <ol>
-                    <li>
-                        <strong>Academic Excellence:</strong> UPM offers a wide range of undergraduate and postgraduate programs across various disciplines, 
-                        including agriculture, engineering, business, social sciences, medicine, and environmental studies. 
-                        It is particularly well-regarded for its programs related to agriculture, forestry, and biotechnology.
-                    </li>
-                    <li>
-                        <b>Research and Innovation:</b> UPM is known for its strong research culture, 
-                        with numerous research centers dedicated to scientific, technological, and agricultural innovation. 
-                        The university has produced significant research outcomes in areas like plant science, 
-                        biotechnology, and sustainable agriculture.
-                    </li>
-                </ol>
+                The Pahang Matriculation College is a prestigious institution that provides 
+                pre-university education to students in the state of Pahang, Malaysia. 
+                It offers a comprehensive curriculum designed to prepare students for higher education, 
+                with a strong focus on academic excellence and personal development.
             </p>
         </div>
     </body>
