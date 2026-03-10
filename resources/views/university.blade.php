@@ -3,7 +3,7 @@
     <head>
         <link rel="stylesheet" href="styles.css">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
-        <title>My University</title>
+        <title>BIOWEB | My Background Studies</title>
     </head>
     <body>
         <!-- header title -->
