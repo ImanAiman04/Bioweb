@@ -3,6 +3,7 @@
     <head>
         <link rel="stylesheet" href="styles.css">
         <title>PROFILEWEB | Home</title>
+        <meta charset="UTF-8">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
     </head>
     <body>
